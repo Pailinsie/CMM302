@@ -9,3 +9,6 @@ The purpose of this code is to demonstrate **technical feasibility** at TRL 3–
 - confirming that the proposed experimental pipeline can operate end-to-end.
 
 This repository forms the required Feasibility Evidence for the assessment.
+
+Each sample image is automatically assigned a label ("cozy" or "noncozy") based on its filename.  
+This allows simple exploratory analysis of differences between cozy and non-cozy visual features.
